@@ -1,4 +1,4 @@
-# 📦 Vendor impact Analysis - Retail Supply Chain Optimization
+# 📦 VendorScope – Retail Vendor Performance Optimization
 
 <em>Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using **SQL**, **Python**, and **Power BI**.</em>
 
