@@ -1,4 +1,4 @@
-# 📦 VendorScope – Retail Vendor Performance Optimization
+# 📦 VendorScope – Vendor Performance Intelligence
 
 <em>Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using **SQL**, **Python**, and **Power BI**.</em>
 
